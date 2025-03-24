@@ -1,0 +1,33 @@
+{
+    "company": {
+        "name": "Tech Solutions",
+        "location": {
+            "city": "San Francisco",
+            "state": "California",
+            "address": {
+                "street": "123 Innovation Drive",
+                "zipcode": "94107"
+            }
+        },
+        "employees": [
+            {
+                "id": 1,
+                "name": "Alice Johnson",
+                "position": "Software Engineer",
+                "contact": {
+                    "email": "alice.johnson@techsolutions.com",
+                    "phone": "+1-555-123-4567"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Bob Smith",
+                "position": "Product Manager",
+                "contact": {
+                    "email": "bob.smith@techsolutions.com",
+                    "phone": "+1-555-987-6543"
+                }
+            }
+        ]
+    }
+}
